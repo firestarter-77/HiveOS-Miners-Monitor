@@ -10,3 +10,4 @@ HiveOS rigs monitor for free on Windows 7+ desktop app. Отчет VirusTotal п
 1.9 https://www.virustotal.com/gui/file/c111794b47188248975686af11e11b993b45ba49aae1469a115496f0a42d5dbd<br>
 2.0 https://virustotal.com/gui/file/d1ea7ddea0c18d8e811c8d7f6a37a8de4e8c83b851745641cf3b7bbd0d2b179d<br>
 2.1 https://virustotal.com/gui/file/29f153c3f15b219cc2d3ba460efd16874f802c1fcba392df4a82e2f9efbbbe3f<br>
+2.2 https://virustotal.com/gui/file/67c12216eff2c135e7ebf515f1b78ad95c1b6b63566de62922298a022a03a821<br>
